@@ -1,0 +1,446 @@
+{
+  "users": [
+    {
+      "email": "teste1@gmail.com",
+      "password": "$2a$10$Ugh1eHuPeSHsqQrNohnp/umfDVvHox9XNccVvbC9be7NwKm.zxGEu",
+      "name": "tete001",
+      "genre": "feminino",
+      "id": 1
+    }
+  ],
+  "muscles": [
+    {
+      "userId": 1,
+      "weight": 75,
+      "height": 2.02,
+      "id": 1
+    }
+  ],
+  "training": [
+    {
+      "genre": "masculino",
+      "category": "abdomen",
+      "id": 1,
+      "title": "Abdominias",
+      "videoURL": "",
+      "description": "Deite de costas com os joelhos dobrados e os braços esticados para frente. Levantando a parte superior do corpo tirando-a do chão. Mantenha-a erguida por alguns segundos e retorne lentamente. Esse exercício trabalha principalmente o músculo reto abdominal e os oblíquos"
+    },
+    {
+      "genre": "masculino",
+      "category": "abdomen",
+      "id": 2,
+      "title": "Abdominal Russo",
+      "videoURL": "https://www.youtube.com/embed/DJQGX2J4IVw",
+      "description": "Sente-se no chão com os joelhos dobrados, os pés um pouco levantados e as costas inclinadas para trás. Em seguida, segure em mãos e mova o tronco de um lado para o outro"
+    },
+    {
+      "genre": "masculino",
+      "category": "abdomen",
+      "id": 3,
+      "title": "Montanha",
+      "videoURL": "https://www.youtube.com/embed/wQq3ybaLZeA",
+      "description": "Comece com a posição de flexão, leve o joelho direito na direção do peito, salte ai trocar de pé no ar trazendo o pé esquerdo para dentro e o direito para fora. Este exercício fortalece vários vários grupos musculares além do sistema cardiovascular"
+    },
+    {
+      "genre": "masculino",
+      "category": "abdomen",
+      "id": 4,
+      "title": "Elevação de Pernas",
+      "videoURL": "https://www.youtube.com/embed/dGKbTKLnym4",
+      "description": "Deite de costas e coloque as mãos por baixo das ancas como apoio. Em seguida, levante as pernas até formar um ângulo reto com o chão. Baixa as penas lentamente e repita o exercício"
+    },
+    {
+      "genre": "masculino",
+      "category": "abdomen",
+      "id": 5,
+      "title": "Prancha",
+      "videoURL": "https://www.youtube.com/embed/Fcbw82ykBvY",
+      "description": "Mantenha a posição de flexão com o peso do corpo sustentado pelos antebraços, cotovelos e dedos dos pés. A prancha fortalece os abdominais, as costas e os ombros"
+    },
+    {
+      "genre": "masculino",
+      "category": "costas",
+      "id": 6,
+      "title": "Saltar à Corda",
+      "videoURL": "https://www.youtube.com/embed/2W4ZNSwoW_4",
+      "description": "Inicie com seus pés juntos e seus braços ao lado do corpo. Em seguida, salte distanciando os pés e movendo suas mãos sobre a cabeça.Retorne para a posição inicial e, em seguida, repita o movimento"
+    },
+    {
+      "genre": "masculino",
+      "category": "costas",
+      "id": 7,
+      "title": "Levantamento Lateral",
+      "videoURL": "https://www.youtube.com/embed/ww0r9xZunDM",
+      "description": "Fique de pé com os pés alinhados com os ombros. Levante seus braços na lateral até que a altura dos ombros e, em seguida, baixe-os. Repita o exercício."
+    },
+    {
+      "genre": "masculino",
+      "category": "costas",
+      "id": 8,
+      "title": "Contração Romboide",
+      "videoURL": "https://www.youtube.com/embed/DEyDbzSudEU",
+      "description": "Fique de pé com as pernas afastadas na largura dos ombros. Erga os cotovelos paralelamente ao chão e flexione-os. Puxe os cotovelos para trás e contraia as escápulas."
+    },
+    {
+      "genre": "masculino",
+      "category": "costas",
+      "id": 9,
+      "title": "Tesoura com Braços",
+      "videoURL": "https://www.youtube.com/embed/dPDsW7xvuVY",
+      "description": "Fique de pé com as pernas afastadas na largura dos ombros. Estique os braços diante do corpo na altura dos ombros com um braço sobre o outro, formando um X. Em seguida, afaste-os. Inverta os braços e repita o exercício. "
+    },
+    {
+      "genre": "masculino",
+      "category": "costas",
+      "id": 10,
+      "title": "Flexão de Tríceps Pronado",
+      "videoURL": "https://www.youtube.com/embed/Rr43jMaoJ9g",
+      "description": "Fique de pé com as pernas afastadas na largura dos ombros. Estique os braços diante do corpo na altura dos ombros com um braço sobre o outro, formando um X. Em seguida, afaste-os. Inverta os braços e repita o exercício. "
+    },
+    {
+      "genre": "masculino",
+      "category": "pernas",
+      "id": 11,
+      "title": "Elevação lateral de perna",
+      "videoURL": "https://www.youtube.com/embed/4KZ04uVUXWM",
+      "description": "Deite-se de lado com a cabeça a descansar sobre o braço direito. Levante a perna superior e volte a posição inicial. Dica: Tome cuidado para que a sua perna fique reta ao movê-la para cima e para baixo durante o exercício."
+    },
+    {
+      "genre": "masculino",
+      "category": "pernas",
+      "id": 12,
+      "title": "Pontapés de burro",
+      "videoURL": "https://www.youtube.com/embed/Sc8e7yCYvPQ",
+      "description": "Comece de mãos no chão, com os joelhos abaixo das nádegas e as mãos diretamente sob os ombros. Em seguida, levante uma das pernas e comprima as nádegas tanto quanto possível."
+    },
+    {
+      "genre": "masculino",
+      "category": "pernas",
+      "id": 13,
+      "title": "Abdominal Afundo",
+      "videoURL": "https://www.youtube.com/embed/1LQCLqHUFUI",
+      "description": "Fique de pé, com os pés alinhados aos ombros e com as mãos na cintura. Dê um grande passo para trás com uma de suas pernas e agache-se até que a coxa da outra fique paralela ao chão. Retorne a posição inicial e repita com o outro lado "
+    },
+    {
+      "genre": "masculino",
+      "category": "pernas",
+      "id": 14,
+      "title": "Pulo Lateral",
+      "videoURL": "https://www.youtube.com/embed/wcQqb9hVS_Y",
+      "description": "Fique de pé, coloque as mãos na frente do corpo e pule de um lado para o outro."
+    },
+    {
+      "genre": "masculino",
+      "category": "pernas",
+      "id": 15,
+      "title": "Agachamentos",
+      "videoURL": "https://www.youtube.com/embed/YD5OhmTxGAw",
+      "description": "Fique de pé, com os pés distantes na largura dos ombros e com seus braços esticados para a frente. Em seguida, agache-se até suas coxas ficarem paralelas ao chão. Seus joelhos devem ficar virados na mesma direção que a ponta de seus pés. Retorne à posição inicial e faça a próxima repetição."
+    },
+    {
+      "genre": "masculino",
+      "category": "peito",
+      "id": 16,
+      "title": "Flexões",
+      "videoURL": "https://www.youtube.com/embed/eMQuAjuPCV0",
+      "description": "Levantando e abaixando o corpo com os braços, mantenha o corpo reto, este exercício trabalha os músculos do peito, ombros, tríceps, costas e pernas."
+    },
+    {
+      "genre": "masculino",
+      "category": "peito",
+      "id": 17,
+      "title": "Flexões com os braços abertos",
+      "videoURL": "https://www.youtube.com/embed/kBREQ4OSds8",
+      "description": "Comece uma flexão normal, mas com a distância entre as mãos maior do que a dos ombros. Em seguida, empurre o corpo para cima e para baio. Lembre-se de que o torso deve encontrar-se em ângulo reto."
+    },
+    {
+      "genre": "masculino",
+      "category": "peito",
+      "id": 18,
+      "title": "Afundar tríceps com a cadeira",
+      "videoURL": "https://www.youtube.com/embed/jF0UaL-I11U",
+      "description": "Segure a frente da cadeira com a palma da mão para trás, trava o quadril e os pés fique para fora. Embora mantendo as costas perto da cadeira, dobre os cotovelos e tenta descer para 90 graus. Este é um ótimo exercício para os tríceps."
+    },
+    {
+      "genre": "masculino",
+      "category": "peito",
+      "id": 19,
+      "title": "Flexão com joelhos",
+      "videoURL": "https://www.youtube.com/embed/KFxW5amBbsw",
+      "description": "Comece uma flexão normal com os joelhos a tocar no chão, enquanto os pés estão levantados do chão."
+    },
+    {
+      "genre": "masculino",
+      "category": "peito",
+      "id": 20,
+      "title": "Flexão Inclinada",
+      "videoURL": "https://www.youtube.com/embed/eMQuAjuPCV0",
+      "description": "Comece numa posição de flexão normal com as mãos numa posição elevada por uma cadeira ou banco. Em seguida, suba e desça o seu corpo com a força dos braços. Lembre-se que o torso deve encontrar-se em ângulo reto."
+    },
+    {
+      "genre": "masculino",
+      "category": "braço",
+      "id": 21,
+      "title": "",
+      "videoURL": "",
+      "description": ""
+    },
+    {
+      "genre": "masculino",
+      "category": "braço",
+      "id": 22,
+      "title": "",
+      "videoURL": "",
+      "description": ""
+    },
+    {
+      "genre": "masculino",
+      "category": "braço",
+      "id": 23,
+      "title": "",
+      "videoURL": "",
+      "description": ""
+    },
+    {
+      "genre": "masculino",
+      "category": "braço",
+      "id": 24,
+      "title": "",
+      "videoURL": "",
+      "description": ""
+    },
+    {
+      "genre": "masculino",
+      "category": "braço",
+      "id": 25,
+      "title": "",
+      "videoURL": "",
+      "description": ""
+    },
+    {
+      "genre": "feminino",
+      "category": "abdomen",
+      "id": 26,
+      "title": "Toque Calcanhar",
+      "videoURL": "https://www.youtube.com/embed/HwLOdOmXcrI",
+      "description": "Deite-se no chão com as pernas dobradas e seus braços ao lado do corpo. Levante um pouco a parte superior do corpo distanciando-a do chão e faça com que suas mãos toquem nos calcanhares alternadamente."
+    },
+    {
+      "genre": "feminino",
+      "category": "abdomen",
+      "id": 27,
+      "title": "Abdominal Cruzado",
+      "videoURL": "https://www.youtube.com/embed/10LVrfyU4cc",
+      "description": "Deite-se de costas com seus joelhos dobrados e com suas mãos atrás das orelhas. Levante e gire o seu tronco de modo que seu cotovelo direito mova-se da direção de seu joelho esquerdo. repita com o outro lado."
+    },
+    {
+      "genre": "feminino",
+      "category": "abdomen",
+      "id": 28,
+      "title": "Ponte Lateral Esquerda",
+      "videoURL": "https://www.youtube.com/embed/alFy6jqzjL8",
+      "description": "Deite sobre o lado direito. Coloque o cotovelo direito alinhado abaixo do ombro e coloque a mão esquerda na cintura. Coloque a perna esquerda sobre a perda direita. Erga o quadril, mantenha a posição durante 2-4 segundos e volte a posição inicial. Repita o exercício."
+    },
+    {
+      "genre": "feminino",
+      "category": "abdomen",
+      "id": 29,
+      "title": "Ponte Lateral Direita",
+      "videoURL": "https://www.youtube.com/embed/dGKbTKLnym4",
+      "description": "Deite sobre o lado esquerdo. Coloque o cotovelo esquerdo alinhado abaixo do ombro e coloque a mão direita na cintura. Coloque a perna direita sobre a perna esquerda. Erga o quadril, mantenha a posição durante 2-4 segundos e volte a posição inicial. Repita o exercício."
+    },
+    {
+      "genre": "feminino",
+      "category": "abdomen",
+      "id": 30,
+      "title": "Ponte De Nádegas",
+      "videoURL": "https://www.youtube.com/embed/SfHqMoDVDk0",
+      "description": "Deite-se direito e dobre os joelhos com os pés apoiados no chão. coloque os braços igualmente apoiados, de ambos os lados. Em seguida, levante as nádegas do chão, tão alto quanto possível, em forma de ponte."
+    },
+    {
+      "genre": "feminino",
+      "category": "costas",
+      "id": 31,
+      "title": "Elevações dos Braços",
+      "videoURL": "https://www.youtube.com/embed/i_vx_I9-v6U",
+      "description": "Deite-se no chão com os braços estendidos a direito à altura dos ombros. Levante os braços acima da cabeça. Regresse à posição inicial e repita o exercício."
+    },
+    {
+      "genre": "feminino",
+      "category": "costas",
+      "id": 32,
+      "title": "Postura Gato-Vaca",
+      "videoURL": "https://www.youtube.com/embed/L-T0HejuQdo",
+      "description": "Comece com mãos e joelhos no chão, com os joelhos alinhados com o bumbum e as mãos alinhadas com os ombros. Então, respire e mova a barriga para baixo, os ombros para trás e a cabeça para cima, em direção ao teto. Enquanto você expira, curve as costas para cima e deixe a cabeça baixar. Repita o exercício"
+    },
+    {
+      "genre": "feminino",
+      "category": "costas",
+      "id": 33,
+      "title": "Contração Romboide",
+      "videoURL": "https://www.youtube.com/embed/DEyDbzSudEU",
+      "description": "Fique de pé com as pernas afastadas na largura dos ombros. Erga os cotovelos paralelamente ao chão e flexione-os. Puxe os cotovelos para trás e contraia as escápulas."
+    },
+    {
+      "genre": "feminino",
+      "category": "costas",
+      "id": 34,
+      "title": "Tesoura com Braços",
+      "videoURL": "https://www.youtube.com/embed/dPDsW7xvuVY",
+      "description": "Fique de pé com as pernas afastadas na largura dos ombros. Estique os braços diante do corpo na altura dos ombros com um braço sobre o outro, formando um X. Em seguida, afaste-os. Inverta os braços e repita o exercício."
+    },
+    {
+      "genre": "feminino",
+      "category": "costas",
+      "id": 35,
+      "title": "Flexão de Tríceps Propenso",
+      "videoURL": "https://www.youtube.com/embed/Z7QSvBmy9Ms",
+      "description": "Deite de barriga para baixo com as mãos abaixo dos ombros e os cotovelos flexionados. Erga levemente o peito e retorne para a posição inicial. Repita o exercício."
+    },
+    {
+      "genre": "feminino",
+      "category": "peito",
+      "id": 36,
+      "title": "Flexão Com os joelhos",
+      "videoURL": "https://www.youtube.com/embed/KFxW5amBbsw",
+      "description": "Comece uma flexão normal com os joelhos a tocar no chão, enquanto os pés  estão levantados do chão. Em seguida, empurre a parte superior do corpo para cima e para baixo."
+    },
+    {
+      "genre": "feminino",
+      "category": "peito",
+      "id": 37,
+      "title": "Flexão Em Degrau",
+      "videoURL": "https://www.youtube.com/embed/xuOckEGWgJo",
+      "description": "Comece uma flexão normal, mas com uma mão em frente da outra. Em seguida, faça uma flexão e mude a mão que fica em frente da outra. Lembre-se que torso deve encontrar-se em ângulo reto."
+    },
+    {
+      "genre": "feminino",
+      "category": "peito",
+      "id": 38,
+      "title": "Flexão Declinada",
+      "videoURL": "https://www.youtube.com/embed/VCfB2oUZzAA",
+      "description": "Coloque-se sobre os quatro membros com os joelhos debaixo das nádegas e as mãos diretamente abaixo dos ombros. De seguida, levante os pés, colocando numa cadeira ou banco, e suba e desça o corpo sobretudo com a força dos braços. Lembre-se que torso deve encontrar-se em ângulo reto."
+    },
+    {
+      "genre": "feminino",
+      "category": "peito",
+      "id": 39,
+      "title": "Alongamento do Peito",
+      "videoURL": "https://www.youtube.com/embed/DzYbKoktWao",
+      "description": "Encontre uma estrutura de porta, deixe uma das pernas um pouco a frente, com o joelho flexionado, mantenha os braços apoiados nas laterais da estrutura e os cotovelos um pouco abaixo dos ombros. Então, lentamente mova o peito para frente. Mantenha-se nesta posição por 30-40 segundos. Então lentamente abandone a posição, mova os braços para baixo e movimente os ombros em círculos algumas vezes."
+    },
+    {
+      "genre": "feminino",
+      "category": "peito",
+      "id": 40,
+      "title": "Flexão Em losango",
+      "videoURL": "https://www.youtube.com/embed/36HgbeFenxs",
+      "description": "Comece com a posição de flexão. Faça uma forma de diamante por baixo do peito com os polegares e indicadores juntos e empurre o corpo para cima e para baixo. Lembre-se que torso deve encontrar-se em ângulo reto."
+    },
+    {
+      "genre": "feminino",
+      "category": "perna",
+      "id": 41,
+      "title": "Agachamentos",
+      "videoURL": "https://www.youtube.com/embed/YD5OhmTxGAw",
+      "description": "Fique de pé, com os pés distantes na largura dos ombros e com seus braços esticados para a frente. Em seguida, agache-se até sua coxas ficarem paralelas ao chão. Seus joelhos devem ficar virados na mesma direção que a ponta de seus pés. Retorne à posição inicial e faça a próxima repetição. Esse exercício trabalha coxas, quadris, nádegas, quadríceps, tendões e parte inferior do corpo."
+    },
+    {
+      "genre": "feminino",
+      "category": "perna",
+      "id": 42,
+      "title": "Estocada",
+      "videoURL": "https://www.youtube.com/embed/SujYrLi5dng",
+      "description": "Coloque uma perna para frente com joelho dobrado e plana pé no chão, enquanto a outra perna está posicionado para trás."
+    },
+    {
+      "genre": "feminino",
+      "category": "perna",
+      "id": 43,
+      "title": "Sentar na parede 30s",
+      "videoURL": "https://www.youtube.com/embed/zoBEgkd78Wg",
+      "description": "Coloque as costas contra uma parede, mantenha o apartamento de volta, quadris mais baixos até os joelhos formam um ângulo retos."
+    },
+    {
+      "genre": "feminino",
+      "category": "perna",
+      "id": 44,
+      "title": "Alongamento da panturrilha 30s",
+      "videoURL": "https://www.youtube.com/embed/6SIQN7Dh4Tg",
+      "description": "Fique de pé a um passo largo de distância de uma parede. Dê um passo para frente com o pé direito e empurre a parede com as mãos. Você deve manter sua perna esquerda totalmente estendida e sentir sua panturrilha esquerda sendo alongada. Fique nessa posição por alguns segundo, depois repita o alongamento com o lado oposto."
+    },
+    {
+      "genre": "feminino",
+      "category": "perna",
+      "id": 45,
+      "title": "Agachamento de sumô",
+      "videoURL": "https://www.youtube.com/embed/9rme1RyAJEE",
+      "description": "Fique de pé com os pés a 15-30 centímetros de distância. Estique os braços para frente. Faça o agachamento até suas coxas ficarem paralelas ao chão. Retorne à posição inicial e repita o exercício."
+    },
+    {
+      "genre": "feminino",
+      "category": "braço",
+      "id": 46,
+      "title": "Círculos com os Braços no Sentido Horário 30s",
+      "videoURL": "https://www.youtube.com/embed/4TJv9YmECjc",
+      "description": "Fique de pé com os braços estendidos para os lados na altura dos ombros. Movimente seus braços em círculos rapidamente no sentido horários."
+    },
+    {
+      "genre": "feminino",
+      "category": "braço",
+      "id": 47,
+      "title": "Flexões e Rotação",
+      "videoURL": "https://www.youtube.com/embed/NTwhw_HxxdA",
+      "description": "Comece na posição de flexão. Em seguida , faça uma flexão e, ao subir, gire a parte do corpo e estenda seu braço direito para cima. Repita o exercício com o outro braço. É um ótimo exercício para peito, ombros e braços."
+    },
+    {
+      "genre": "feminino",
+      "category": "braço",
+      "id": 48,
+      "title": "Burpee",
+      "videoURL": "https://www.youtube.com/embed/DyF2u0f-RP0",
+      "description": "Comece na posição em pé. Mantenha posição de abdominal e coloque as mãos no chão. Estique as pernas e braços ao mesmo tempo. Volte imediatamente à posição de abdominal."
+    },
+    {
+      "genre": "feminino",
+      "category": "braço",
+      "id": 49,
+      "title": "Tesouras com os braços 30s",
+      "videoURL": "https://www.youtube.com/embed/dPDsW7xvuVY",
+      "description": "Fique de pé com as pernas afastadas na largura dos ombros. Estique os braços diante do corpo na altura dos ombros com um braço sobre o outro, formando um X. Em seguida, afaste-os. Inverta os braços e repita o exercício."
+    },
+    {
+      "genre": "feminino",
+      "category": "braço",
+      "id": 50,
+      "title": "Ganchos Alternados 30s",
+      "videoURL": "https://www.youtube.com/embed/RJJ7ksD1UJ4",
+      "description": "Fique de pé, com os pés alinhados aos ombros, e coloque seu pé dominante um pouco para frente. Dobre levemente os joelhos, feche os punhos e forme um ângulo de 90 graus com os cotovelos. Levante o braço direito na altura do ombro e mantenha o antebraço paralelo ao chão. Gire os ombros e o quadril e dê um soco para a esquerda. Altere os lados e repita."
+    }
+  ],
+
+  "nutrition": [
+    {
+      "id": 1,
+      "category": "Café da manhã",
+      "title": "Bolo de Amêndoas low carb",
+      "ingredientes": [
+        "3 ovos.",
+        "1 xícara de chá de farinha de amêndoas.",
+        "1 xícara de chá de amêndoas laminadas.",
+        "1 xícara de chá de leite de amêndoas",
+        "2 colheres de sopa de amaranto",
+        "2 colheres de sopa psyllium",
+        "1 xícara de chá de açúcar demerara",
+        "1 colher de sopa de fermento em pó",
+        "2 colheres de sopa de óleo de coco",
+        "1 colher de chá de essência de baunilha."
+      ],
+      "preparation": [
+        "Em um recipiente, adicione todos os ingredientes e misture bem até formar uma massa.",
+        "Despeje a massa em uma forma untada e leve ao forno preaquecido a 180 ºC por cerca de 40 minutos.",
+        "Agora é só servir."
+      ]
+    }
+  ]
+}
